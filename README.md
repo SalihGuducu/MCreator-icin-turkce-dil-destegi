@@ -1,1 +1,2 @@
-# MCreator-i-in-T-rk-e-Dil-Deste-i-BETA-
+### MCreator için Türkçe Dil desteği! (Beta)
+##By SyTax
