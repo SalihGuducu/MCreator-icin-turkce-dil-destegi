@@ -1,5 +1,4 @@
 # MCreator için Türkçe Dil desteği! (Beta)
-## By SyTax
+### By SyTax
 
-## Tamamlanma Yüzdesi;
-### %23
+## Tamamlanma Yüzdesi: %23
